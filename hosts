@@ -1,0 +1,29 @@
+# Title: PiHole-Blacklsit-Hosts
+#
+# Date: 2023/06/06
+#
+# ====================================================
+
+#=====================================
+# Title: Hosts discovered by KColeman
+0.0.0.0 samsungads.com
+0.0.0.0 events.samsungads.com
+0.0.0.0 config.samsungads.com
+0.0.0.0 static.doubleclick.net
+0.0.0.0 tvx.adgrx.com 
+0.0.0.0 samsungotn.net
+0.0.0.0 samsungrm.net
+0.0.0.0 samsung.net/ads
+0.0.0.0 gpm.samsungqbe.com
+0.0.0.0 log-config.samsungacr.com
+0.0.0.0 samsungacr.com
+0.0.0.0 samsungcloudsolution.com
+0.0.0.0 samsungcloudsolution.net
+0.0.0.0 cooper.logs.roku.com
+0.0.0.0 track.sr.roku.com
+0.0.0.0 p.ads.roku.com
+0.0.0.0 bif.sr.roku.com
+0.0.0.0 traces.sr.roku.com
+0.0.0.0 cloudservices.roku.com
+0.0.0.0 scribe.logs.roku.com
+0.0.0.0 amarillo.sb.roku.com
